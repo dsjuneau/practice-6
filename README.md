@@ -27,6 +27,7 @@ mkdir name
 
 ## Remove a directory
 
+rmdir directory
 rm -r directory
 
 ## Autocomplete a word
